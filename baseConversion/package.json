@@ -1,0 +1,21 @@
+{
+  "name": "baseconversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baseConversion.js",
+  "scripts": {
+    "start": "nodemon baseConversion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hex-to-binary": "^1.0.1",
+    "morgan": "^1.9.0",
+    "serve-static": "^1.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
